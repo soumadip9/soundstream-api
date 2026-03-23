@@ -1,7 +1,3 @@
-
----
-
-````md
 # 🎵 SoundStream API
 
 Backend for a music streaming platform built with Node.js, Express, and MongoDB.  
